@@ -3,7 +3,7 @@
 Este ejercicio es para familiarizarnos con Git, NPM y create-react-app.
 
 
-## Pasos a seguir
+### Pasos a seguir
 
 1.- Forkear este repo. En la esquina derecha derecha superior hay un botón que te clonará este repositorio en tu cuenta.
 
@@ -43,7 +43,7 @@ Vamos a subir los cambios a git
 ```sh
   git add .
   git commit -m "Init repo"
-  git push master
+  git push
 ```
 
 Investiga los comandos git add, git commit and git push
